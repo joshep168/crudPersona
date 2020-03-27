@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23e515fd-5bd5-41c9-ab44-b79cdaeb1726" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit-4.13.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-crud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-crud.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/democrud/DemoCrudApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/democrud/DemoCrudApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +43,11 @@
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JOSE\Documents\MIS DOCUMENTOS\PROYECTOS\TUTORIALES\JAVA\FUENTES\CrudPersonas\.idea\libraries" />
       <recent name="D:\PROGRAMACION\JAVA\demo-crud-spring-boot-master\.idea\libraries" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PROGRAMACION\JAVA\demo-crud-spring-boot-master\.idea\libraries" />
     </key>
   </component>
@@ -102,6 +104,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585188120881" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585280547022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585280547022" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
